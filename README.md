@@ -1,6 +1,6 @@
 <h1>YouTobe clone</h1>
-<h2>Her kategorideki videolar sayfalarda dinamik olarak görünür.</h2>
-<h2>Videoların detay sayfasında;</h2>
+<p>Her kategorideki videolar sayfalarda dinamik olarak görünür.</p>
+<p>Videoların detay sayfasında;</p>
 
 <p>
 -İlgili içerikler (videolar) sağ tarafta,
